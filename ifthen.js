@@ -65,3 +65,4 @@ if (hoursofsleep < 6){
 
 }
 
+function addwowitworked()

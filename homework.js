@@ -34,3 +34,16 @@ var string6 = string4 + " " + string5;
 
 console.log(string6);
 
+var string7 = "watching porn";
+var string8  ="is not fun for your girlfriend";
+var string10 = string7 + " " + string8; 
+
+console.log(string10);
+
+ var string11 = "waterworld is";
+ var string12 = "is closed for the season";
+
+ string13 = string11 + " " + string12;
+
+ console.log(string13);
+ 
